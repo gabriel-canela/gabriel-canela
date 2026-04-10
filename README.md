@@ -1,19 +1,18 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=120&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:0a0a0a&height=80&section=header"/>
 </p>
 
-<p align="center">
-  <strong>Gabriel</strong>
-</p>
+```bash
+root@local:~# access system
+warning: 𝖛𝖔́𝖘 𝖖𝖚𝖊 𝖊𝖓𝖙𝖗𝖆𝖎𝖘, 𝖆𝖇𝖆𝖓𝖉𝖔𝖓𝖆𝖎 𝖙𝖔𝖉𝖆 𝖊𝖘𝖕𝖊𝖗𝖆𝖓𝖈̧𝖆;
 
-<p align="center">
-  building things • learning things
-</p>
+root@local:~# whoami
+gabriel
 
-<p align="center">
-  ⚙️ 📱 🧠
-</p>
+root@local:~# ls
+projects/  studies/  unknown/
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=120&section=footer"/>
-</p>
+root@local:~# cat unknown/log.txt
+> system incomplete
+> learning in progress
+> no guarantees
