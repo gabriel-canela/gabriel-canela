@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:0a0a0a&height=80&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0a,100:1a0000&height=60&section=header"/>
 </p>
 
 ```bash
@@ -16,3 +16,4 @@ root@local:~# cat unknown/log.txt
 > system incomplete
 > learning in progress
 > no guarantees
+
