@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0a,100:1a0000&height=60&section=header"/>
-</p>
+
 
 ```bash
 root@local:~# access system
@@ -16,4 +14,7 @@ root@local:~# cat unknown/log.txt
 > system incomplete
 > learning in progress
 > no guarantees
-
+```
+<p align="center">
+  <img src ="https://i.pinimg.com/originals/67/07/b6/6707b6e02e45437d58e7fa257009979a.gif"/>
+</p>
