@@ -1,4 +1,4 @@
-<p align="center">
+<p align="left">
   <img src ="https://tryhackme-badges.s3.amazonaws.com/Gabrielcanela.png"/>
 </p>
 
@@ -17,6 +17,10 @@ root@local:~# cat unknown/log.txt
 > learning in progress
 > no guarantees
 ```
+
 <p align="center">
   <img src ="https://i.pinimg.com/originals/67/07/b6/6707b6e02e45437d58e7fa257009979a.gif"/>
+</p>
+<p align="left">
+  <img src ="https://tryhackme-badges.s3.amazonaws.com/Gabrielcanela.png"/>
 </p>
