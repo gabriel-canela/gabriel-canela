@@ -1,7 +1,3 @@
-<p align="left">
-  <img src ="https://tryhackme-badges.s3.amazonaws.com/Gabrielcanela.png"/>
-</p>
-
 ```bash
 root@local:~# access system
 warning: 𝖛𝖔́𝖘 𝖖𝖚𝖊 𝖊𝖓𝖙𝖗𝖆𝖎𝖘, 𝖆𝖇𝖆𝖓𝖉𝖔𝖓𝖆𝖎 𝖙𝖔𝖉𝖆 𝖊𝖘𝖕𝖊𝖗𝖆𝖓𝖈̧𝖆;
